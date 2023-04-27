@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Run JSON server
+
+Run `npx json-server db.json --watch --port 3001` for run the JSON server
+
+## Install all required packages
+
+Run `npm install` for install all the required packages
+
 ## Available Scripts
 
 In the project directory, you can run:
